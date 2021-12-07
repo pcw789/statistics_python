@@ -46,7 +46,24 @@ Simple Data를 활용해 통계 분석을 수행하였다.
   * p값을 계산하여 가설의 통계적 유의성 측정.
 * Proportion(비율), Mean(평균) 수치에 대한 가설 검정.
 
-  
+<br/>
+
+## 선형 회귀(Linear Regression)
+
+### Description
+
+* 선형 회귀를 활용한 종속변수와 독립변수와의 관계성 분석
+* nhanes 데이터를 이용
+
+### Linear Regression
+
+* [Linear_regression](https://github.com/pcw789/statistics_python/blob/main/Linear_regression_tutorial.ipynb)
+
+### 분석
+
+* 종속변수(혈압)와 독립변수들(나이, 성별, BMI수치)과의 상관성 분석
+* 회귀계수, p-value, R-square로 분석 결과를 해석 
+
 <br/>
 
 ## P-value Vs Power
