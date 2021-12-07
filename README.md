@@ -62,7 +62,28 @@ Simple Data를 활용해 통계 분석을 수행하였다.
 ### 분석
 
 * 종속변수(혈압)와 독립변수들(나이, 성별, BMI수치)과의 상관성 분석
-* 회귀계수, p-value, R-square로 분석 결과를 해석 
+* 회귀계수, p-value, R-square로 분석 결과를 해석
+
+
+<br/>
+
+## Simple Test
+
+### Description
+
+* 간단한 데이터로 t-test 수행
+
+### 데이터
+
+* [골프공_비교](https://github.com/pcw789/statistics_python/blob/main/Linear_regression_tutorial.ipynb)
+* [게임유저_retention](https://github.com/pcw789/statistics_python/blob/main/Linear_regression_tutorial.ipynb)
+
+### 분석
+
+* 골프공
+  * 두가지 제조 공법에 따른 골프공 drive 거리 차이가 있는지 확인
+* 게임유저
+  * 두 버전에 따른 게임 유저 retention 변화가 있는지 확인
 
 <br/>
 
