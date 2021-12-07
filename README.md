@@ -63,10 +63,11 @@ Simple Data를 활용해 통계 분석을 수행하였다.
 ### 분석
 
 * Power는 true effect가 존재할 때, 귀무가설을 올바르게 기각할 확률.(1-베타)
-* Power와 Effect Size, Sample Size, 알파(Type I error)는 서로 얽혀있다.
-* Power가 커지기 위해선
-  - Effect Size가 크다.
-  - Sample size가 크다.
-  - 알파가 작다.
-* 남성과 여성의 BMI 수치 차이 측정
+* Power가 커질수록 작은 값을 가지는 P-value의 분포가 많아진다.
+* Power가 굉장히 클 경우, 대부분의 P-value는 0.01보다 작은 값을 가진다.
+  * 이 경우, Significance Level(알파)를 0.05로 하면 어떻게 될까?
+    - p-value가 0.045가 나오면, p<0.05 이기 때문에 null hypothesis를 기각한다.
+    - 그런데, 대립가설 쪽에서도 이 수치는 매우 희박한 확률을 가진다. (대부분의 p-value가 0.01보다 작기 때문에 0.045는 관측하기 어렵다.)
+    - paradox
+  * 그렇기 때문에, 높은 Power를 가지는 가설을 설정할때는 낮은 Significance Level을 가지도록 설계해야한다.
 
