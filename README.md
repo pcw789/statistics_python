@@ -3,7 +3,7 @@
 
 ## Description
 
-Simple Data를 활용해 통계 분석을 수행하였다.
+추론 통계에 대해 이해하 위해 Simple Data를 활용해 간단한 통계 분석을 수행하였다.
 
   
 <br/>
