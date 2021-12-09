@@ -75,8 +75,8 @@
 
 ### 데이터
 
-* [골프공_비교](https://github.com/pcw789/statistics_python/blob/main/Linear_regression_tutorial.ipynb)
-* [게임유저_retention](https://github.com/pcw789/statistics_python/blob/main/Linear_regression_tutorial.ipynb)
+* [골프공_비교](https://github.com/pcw789/statistics_python/blob/main/Golfball_test.ipynb)
+* [게임유저_retention](https://github.com/pcw789/statistics_python/blob/main/Game_retention_abtest.ipynb)
 
 ### 분석
 
