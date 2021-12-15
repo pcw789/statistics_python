@@ -67,6 +67,23 @@
 
 <br/>
 
+## 로지스틱 회귀(Logistic Regression)
+
+### Description
+
+* 로지스틱 회귀를 활용한 종속변수와 독립변수와의 관계성 분석
+* nhanes 데이터를 이용
+
+### Linear Regression
+
+* [Linear_regression](https://github.com/pcw789/statistics_python/blob/main/Logistic_regression_tutorial.ipynb)
+
+### 분석
+
+* 종속변수(흡연 여부)와 독립변수들(나이, 성별)과의 상관성 분석
+
+<br/>
+
 ## Simple Test
 
 ### Description
